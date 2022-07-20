@@ -1,0 +1,27 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.gray-text {
+    color:#707070;
+}
+.b-line {
+    border-bottom: #707070 1px solid;
+}
+.green-text {
+    color:#28a745 ; 
+    margin-left: 1em;
+}
+.small-text {
+    margin-bottom: 0;
+
+}
+.disabled-light{
+    color: rgb(206, 205, 205);
+}
+.active-white{
+    font-weight: 500;
+    color: #fff;
+}
+.lw-txt{
+    font-weight: 300;
+}
